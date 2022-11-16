@@ -1,3 +1,5 @@
+/* adding comment to try and get CI passing. all route tests are passing on my 
+end and I don't have any errors, so I'm not sure where the problem is*/
 const pool = require('../lib/utils/pool');
 const setup = require('../data/setup');
 const request = require('supertest');
